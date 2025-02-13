@@ -3,8 +3,6 @@
 # 💫 About Me:
  I'm currently working in the HY GenAID research group, focusing on LLMs in multilingual clinical settings.
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandra-dahlberg/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexandra.dahlberg@helsinki.fi) 
 
 ## 💻 Tech Stack:

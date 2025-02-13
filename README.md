@@ -1,6 +1,6 @@
 # Alexandra Dahlberg
 M.D., M.Sc. Econ stud.
-Researcher currently working in the HY GenAID research group, focusing on LLMs in multilingual clinical settings.
+/Researcher currently working in the HY GenAID research group, focusing on LLMs in multilingual clinical settings.
 
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/alexandra-dahlberg/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 

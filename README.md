@@ -1,4 +1,4 @@
-# Alexandra Dahlberg
+# Alexandra C. H. Dahlberg
 <p>Medical Doctor │ Master of Science, Finance <p>
 <p>Researcher at Mehiläinen, focusing on the economic impact of digital care. Also part of the HY GenAID research group, where I work on large language models in multilingual clinical settings. <p>
 
